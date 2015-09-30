@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記正義
-#+DATE: 2015-09-23 09:38:24
-#+PROPERTY: JUAN 5
+#+DATE: 2015-09-12 00:39:40.229756
+#+PROPERTY: ID KR1d0061
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB09n0692-068禮記正義-卷六十八.
 <pb:KR1d0061_SBCK_006-1a>¶
 禮記正義卷第六十八¶
 　　　唐國子祭酒上護軍曲阜縣開國子臣孔穎逹等奉¶
@@ -426,4 +430,3 @@
 之數取法於月也¶
 禮記正義卷第六十八¶
 <pb:KR1d0061_SBCK_006-15b>¶
-

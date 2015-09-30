@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記正義
-#+DATE: 2015-09-23 09:38:24
-#+PROPERTY: JUAN 6
+#+DATE: 2015-09-12 00:39:40.274804
+#+PROPERTY: ID KR1d0061
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB09n0692-069禮記正義-卷六十九.
 <pb:KR1d0061_SBCK_007-1a>¶
 禮記正義卷第六十九¶
 　　　唐國子祭酒上護軍曲阜縣開國子臣孔　穎達等奉¶
@@ -341,4 +345,3 @@
 <pb:KR1d0061_SBCK_007-11b>¶
 爲射不　而受爵是無功受養不敢當之故讓矣¶
 禮記正義卷第六十九¶
-

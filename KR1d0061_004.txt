@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記正義
-#+DATE: 2015-09-23 09:38:24
-#+PROPERTY: JUAN 3
+#+DATE: 2015-09-12 00:39:40.137309
+#+PROPERTY: ID KR1d0061
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB09n0692-066禮記正義-卷六十六.
 <pb:KR1d0061_SBCK_004-1a>¶
 禮記正義卷第六十六¶
 　　　唐國子祭酒上護軍曲阜縣開國子臣孔　頴逹　等奉¶
@@ -432,4 +436,3 @@
 禮記正義卷第六十六¶
 <pb:KR1d0061_SBCK_004-15b>¶
 <pb:KR1d0061_SBCK_004-15b>¶
-

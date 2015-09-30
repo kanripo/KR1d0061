@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記正義
-#+DATE: 2015-09-23 09:38:24
-#+PROPERTY: JUAN 0
+#+DATE: 2015-09-12 00:39:40.010623
+#+PROPERTY: ID KR1d0061
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB09n0692-063禮記正義-卷六十三.
 <pb:KR1d0061_SBCK_001-1a>¶
 禮記正義卷第六十三¶
 　　　唐國子祭酒上護軍曲阜縣開國子臣孔　穎達　等奉¶
@@ -347,4 +351,3 @@
 拜之云或曰大夫後至者袒拜之爲之成踊者以此經但云袒拜之成踊¶
 其餘經本云大夫後至袒拜之爲之成踊與此經文字多少不同故云或曰¶
 禮記正義卷第六十三¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記正義
-#+DATE: 2015-09-23 09:38:24
-#+PROPERTY: JUAN 8
+#+DATE: 2015-09-12 00:39:40.366520
+#+PROPERTY: ID KR1d0061
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB09n0692-2643禮記正義-第二千六百四十三册.
 <pb:KR1d0061_SBCK_009-1a>¶
 　　　　　不言在者案論語云¶
 &KR0085;則吾&KR0014;徴之矣日¶
@@ -1092,4 +1096,3 @@
 世至之法　正義日此猶是無列無¶
 <pb:KR1d0061_SBCK_009-94a>¶
 <pb:KR1d0061_SBCK_009-95a>¶
-

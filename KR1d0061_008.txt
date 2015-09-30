@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記正義
-#+DATE: 2015-09-23 09:38:24
-#+PROPERTY: JUAN 7
+#+DATE: 2015-09-12 00:39:40.320236
+#+PROPERTY: ID KR1d0061
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB09n0692-070禮記正義-卷七十.
 <pb:KR1d0061_SBCK_008-1a>¶
 禮記正義卷第七十¶
 　　　唐國子祭酒上護軍曲阜縣開國子臣孔　穎逹　等奉¶
@@ -534,4 +538,3 @@
 　　　　推忠協謀佐理功臣光禄大夫吏部尚書同中書¶
 　　　　　門下平章事上柱國東平郡開國公食邑二¶
 　　　　　千三百戸食實封六百戸臣吕　蒙正¶
-
